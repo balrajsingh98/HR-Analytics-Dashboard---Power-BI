@@ -1,3 +1,9 @@
+"Analyzing Workforce Attrition: Insights for Retention Strategies through Power BI"
+
+Why: This project aims to understand key factors behind employee attrition by analyzing data on age, gender, education, salary, tenure, and job roles. By leveraging Power BI for interactive dashboards and analytics, the project helps identify trends and areas where companies can implement effective retention strategies, ultimately reducing turnover and improving workforce stability.
+
+
+
 ![powerbi](https://github.com/user-attachments/assets/6146b012-2162-46ac-b653-fe4c09972fc8)
 
 key insights based on the data provided. Here's a breakdown of potential factors that might be driving attrition:
